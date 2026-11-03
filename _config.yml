@@ -2,6 +2,8 @@ title: VEEV POS Backup
 description: เครื่องมือสำรองข้อมูลภายในร้านกาแฟ VEEV
 theme: minima
 lang: th
+url: https://bebbabecoz.github.io
+baseurl: /veev-pos-backup-info
 defaults:
   - scope:
       path: ""
