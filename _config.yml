@@ -1,0 +1,9 @@
+title: VEEV POS Backup
+description: เครื่องมือสำรองข้อมูลภายในร้านกาแฟ VEEV
+theme: minima
+lang: th
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
